@@ -24,7 +24,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 8. [Code First: Girls](https://www.codefirstgirls.org.uk)
 
-9. [Code Like a Girl](https://codelikeagirl.org)
+9. [Code Like a Girl](https://codelikeagirl.org)g
 
 10. [Ada Developers Academy](https://adadevelopersacademy.org)
 
@@ -34,7 +34,7 @@ Below are the platforms that encourage girls to grow more in tech.
 
 13. [23 Code Street](https://www.23codestreet.com)
 
-14. [Codebar.io](https://codebar.io)
+14. [Codebar.io](https://codeber.io)
 
 15. [CodeChix](https://codechix.org)
 
